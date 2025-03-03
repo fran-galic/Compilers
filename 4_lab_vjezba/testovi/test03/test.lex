@@ -1,5 +1,0 @@
-IDN 1 rez
-OP_PRIDRUZI 1 =
-BROJ 1 5
-OP_MINUS 1 -
-BROJ 1 7
