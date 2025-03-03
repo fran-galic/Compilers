@@ -1,0 +1,14 @@
+rez = 0
+a = 3/1
+b = 1*2
+c = 1 + 1 + 1 + 1
+za i od 1 do a/2 + 1
+    za j od -1 do c/b + a*b
+        za k od b do c
+	    rez = rez + a + b + c
+        az
+    az
+az
+za i od 1 do 5
+    rez = rez + 1
+az

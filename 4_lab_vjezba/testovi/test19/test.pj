@@ -1,0 +1,11 @@
+rez = 0
+a = 3
+b = 3
+c = 3
+za i od 0 do a
+    za j od 0 do b
+        za k od 0 do c
+	    rez = rez + 1
+	az
+    az
+az

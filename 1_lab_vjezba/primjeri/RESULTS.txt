@@ -1,0 +1,31 @@
+Test Results:
+Test 01_var: PASSED
+
+Test 03_var_multi: PASSED
+
+Test 05_znam_var: PASSED
+
+Test 07_op1: PASSED
+
+Test 09_op3: PASSED
+
+Test 11_exp2: PASSED
+
+Test 13_ws2: PASSED
+
+Test 15_kom1: PASSED
+
+Test 17_kom3: PASSED
+
+Test 19_prog2: PASSED
+
+Test 21_kom4: PASSED
+
+Test 23_op4: PASSED
+
+Test 25_prog3: PASSED
+
+Test 27_prog5: PASSED
+
+Test 29_veliki3: PASSED
+

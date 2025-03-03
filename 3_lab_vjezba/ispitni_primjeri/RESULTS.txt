@@ -1,0 +1,22 @@
+Test Results:
+
+Test 01-var: PASSED
+
+Test 03-za: PASSED
+
+Test 05-za-ugnijezdjeni: PASSED
+
+Test 07-za-skrivanjeVarijabli: PASSED
+
+Test 09-err-nedefinirana: PASSED
+
+Test 11-def: PASSED
+
+Test 13-err-za: PASSED
+
+Test 15_gen: PASSED
+
+Test 17_gen: PASSED
+
+Test 19_gen: PASSED
+
